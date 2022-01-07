@@ -7,7 +7,7 @@ import org.springframework.beans.factory.InitializingBean;
 
 @Slf4j
 public class Connection implements InitializingBean, DisposableBean {
-       @Override
+    @Override
     public void afterPropertiesSet() throws Exception {
         log.info("Connection is ready to use");
     }
