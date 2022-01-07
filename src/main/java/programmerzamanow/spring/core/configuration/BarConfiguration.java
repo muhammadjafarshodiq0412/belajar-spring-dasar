@@ -1,4 +1,4 @@
-package programmerzamanow.spring.core;
+package programmerzamanow.spring.core.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
